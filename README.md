@@ -46,8 +46,9 @@ and may also be used independently outside Rails.
 
 ## Getting Started
 
-1. Install Rails at the command prompt if you haven't yet:
+1. Install Rails at the command prompt by root permission if you haven't yet:
 
+        $ sudo -s 
         $ gem install rails
 
 2. At the command prompt, create a new Rails application:
